@@ -1,9 +1,10 @@
-import Navbar from "../Navbar";
-import Banner from "../Banner";
-import Experiences from "../Experiences";
-import Education from "../Education";
-import Courses from "../Courses";
-import Footer from "../Footer";
+import Navbar from "../components/Navbar";
+import Banner from "../components/Banner";
+import Experiences from "../components/Experiences";
+import Education from "../components/Education";
+import Courses from "../components/Courses";
+import Footer from "../components/Footer";
+import Projects from "../components/Projects";
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
       <Navbar />
       <Banner />
       <Experiences />
+      <Projects />
       <Education />
       <Courses />
       <Footer />

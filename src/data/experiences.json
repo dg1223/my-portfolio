@@ -1,0 +1,30 @@
+[
+  {
+    "position": "VP Data Science and Engineering",
+    "company": "Openhaus",
+    "location": "Canada | India | Bangladesh",
+    "duration": "May 2022 – Jan 2023",
+    "summary": "Led and mobilized data, web, cloud, and QA teams to build the company's data infrastructure from scratch "
+  },
+  {
+    "position": "AI Specialist",
+    "company": "Canada Revenue Agency",
+    "location": "Ottawa, Canada",
+    "duration": "Apr 2017 – Jan 2022",
+    "summary": "Led a 4-member data science team in developing an anomaly detection model to identify credential stuffing attacks from 50,000 cybersecurity incidents"
+  },
+  {
+    "position": "Graduate Research Assistant ",
+    "company": "Carleton University",
+    "location": "Ottawa, Canada",
+    "duration": "Sep 2013 – Apr 2017",
+    "summary": "Developed an upper body gesture recognition system from scratch using neural networks from data gathered on 11 adults"
+  },
+  {
+    "position": "Visiting Researcher ",
+    "company": "University of Guelph ",
+    "location": "Guelph, Canada",
+    "duration": "Oct 2012 – Apr 2013 ",
+    "summary": "Developed an automatic insect recognition system for local farmers of Waterloo by classifying a species of moth across 5500 images"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Lead Scoring Model",
+    "company": "Openhaus",
+    "duration": "Dec 2022 -Jan 2023",
+    "summary": "Developed an end-to-end lead-scoring pipeline from model development to deployment to recommend top 10 leads per cohort"
+  },
+  {
+    "title": "BI Pipeline",
+    "company": "Openhaus",
+    "duration": "Sep 2022 – Nov 2022",
+    "summary": "Developed a BI pipeline for 2 analytics dashboards that reduced the monthly BI operating cost by 60% as compared to that of the cheapest available product"
+  },
+  {
+    "title": "Risk Classification",
+    "company": "Canada Revenue Agency",
+    "duration": "Apr 2021 – Jun 2021",
+    "summary": "Developed, tested and deployed an ML model on taxpayer risk classification using AutoML on Microsoft Azure"
+  }
+]
