@@ -1,19 +1,21 @@
 const Banner = () => {
   return (
-    <div className="flex items-center">
-      <div className="">
+    <div className="md:flex items-center justify-center py-8 bg-gray-50">
+      <div className="flex flex-col items-center text-center">
         <h1 className="text-3xl lg:text-4xl font-semibold text-gray-800 dark:text-white">
-          Best Deal
+          Data Scientist | Full-stack Engineer
         </h1>
-        <p className="text-base lg:text-xl text-gray-800 dark:text-white mt-2">
-          Save upto <span className="font-bold">50%</span>
+        <p className="text-base lg:text-lg text-gray-800 dark:text-white mt-2 w-1/2">
+          Data scientist and software engineer with 8 years of experience in
+          leading cross-functional teamsat a large enterprise and at a tech
+          start-up
         </p>
       </div>
-      <div className="mt-8 md:mt-0">
+      <div className="flex justify-center mt-8 md:mt-0">
         <img
-          src="https://i.ibb.co/d7FrQrx/profile-photo-trimmed.png"
+          src="https://i.ibb.co/GvJQ8kz/profile-photo-trimmed-no-Canvas.png"
           alt=""
-          className=""
+          className="w-1/2 rounded-full"
         />
       </div>
     </div>
