@@ -3,9 +3,15 @@ const Banner = () => {
     <div className="md:flex items-center justify-center py-8 bg-gray-50">
       <div className="flex flex-col items-center text-center">
         <h1 className="text-3xl lg:text-4xl font-semibold text-gray-800 dark:text-white">
+          SHAMIR ALAVI
+        </h1>
+        <h1 className="text-md lg:text-xl font-semibold text-gray-800 dark:text-white">
+          B.Tech., M.A.Sc.
+        </h1>
+        <h1 className="text-xl lg:text-2xl font-semibold text-gray-800 dark:text-white">
           Data Scientist | Full-stack Engineer
         </h1>
-        <p className="text-base lg:text-lg text-gray-800 dark:text-white mt-2 w-1/2">
+        <p className="text-base lg:text-lg text-gray-800 dark:text-white mt-2 w-2/3 md:w-1/2">
           Data scientist and software engineer with 8 years of experience in
           leading cross-functional teamsat a large enterprise and at a tech
           start-up

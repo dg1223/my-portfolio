@@ -3,7 +3,7 @@
     "title": "Lead Scoring Model",
     "company": "Openhaus",
     "duration": "Dec 2022 -Jan 2023",
-    "summary": "Developed an end-to-end lead-scoring pipeline from model development to deployment to recommend top 10 leads per cohort"
+    "summary": "Developed a lead-scoring pipeline using logistic regression to recommend top 10 leads per cohort"
   },
   {
     "title": "BI Pipeline",
